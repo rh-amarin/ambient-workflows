@@ -1,0 +1,7 @@
+{
+  "name": "Hyperfleet PR review",
+  "description": "PR review workflow using the PR review skill",
+  "systemPrompt": "",
+  "startupPrompt": "Welcome to the PR review workflow\n\nWhat PR do you want me to start analyzing?\n",
+  "results": {}
+}
